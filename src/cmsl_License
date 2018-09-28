@@ -1,0 +1,7 @@
+= 다운로드를 지원하는 코어 파일 목록 =
+[커스텀 서버 구동기]는 "Sponge Vanilla" 다운로드를 지원합니다.
+[커스텀 서버 구동기]는 "Spigot"과 "Craftbukkit" 다운로드를 지원합니다.
+Sponge 홈페이지: https://spongepowered.org
+Spigot 홈페이지: http://www.spigotmc.org : CraftBukkit 홈페이지: http://bukkit.org
+
+*참고: Q2.0 부터는 Spigot 코어 파일에 대하여 BuildTools를 이용할 예정임, v3.5는 미러사이트를 이용하기 때문에 이와 관련된 주소는 코드에서 삭제됨
